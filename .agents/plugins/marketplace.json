@@ -1,0 +1,46 @@
+{
+  "name": "kiwoo",
+  "description": "Kiwoo plugins from Kiwoo Lab, including the cross-platform web app publisher.",
+  "owner": {
+    "name": "Kiwoo Lab",
+    "email": "support@kiwoo.ai",
+    "url": "https://kiwoo.ai"
+  },
+  "interface": {
+    "displayName": "Kiwoo"
+  },
+  "plugins": [
+    {
+      "name": "kiwoo-web-app-publisher",
+      "displayName": "Kiwoo Web App Publisher",
+      "description": "Preview and publish pure-frontend HTML apps to Kiwoo drafts, with an explicit preview-then-confirm workflow.",
+      "version": "1.1.1",
+      "author": {
+        "name": "Kiwoo Lab",
+        "email": "support@kiwoo.ai",
+        "url": "https://kiwoo.ai"
+      },
+      "homepage": "https://kiwoo.ai",
+      "repository": "https://github.com/metasomaAI/kiwoo-web-app-publisher",
+      "keywords": [
+        "kiwoo",
+        "web-app",
+        "publisher",
+        "deploy",
+        "html",
+        "static-site",
+        "draft",
+        "preview"
+      ],
+      "source": {
+        "source": "local",
+        "path": "./plugins/kiwoo-web-app-publisher"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_USE"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

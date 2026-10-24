@@ -1,0 +1,22 @@
+{
+  "name": "kiwoo-web-app-publisher",
+  "version": "1.1.1",
+  "description": "Preview and publish pure-frontend HTML apps to Kiwoo drafts, with an explicit preview-then-confirm workflow.",
+  "author": {
+    "name": "Kiwoo Lab",
+    "email": "support@kiwoo.ai",
+    "url": "https://kiwoo.ai"
+  },
+  "homepage": "https://kiwoo.ai",
+  "repository": "https://github.com/metasomaAI/kiwoo-web-app-publisher",
+  "keywords": [
+    "kiwoo",
+    "web-app",
+    "publisher",
+    "deploy",
+    "html",
+    "static-site",
+    "draft",
+    "preview"
+  ]
+}

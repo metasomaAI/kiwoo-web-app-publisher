@@ -1,0 +1,46 @@
+{
+  "name": "kiwoo-web-app-publisher",
+  "version": "1.1.1",
+  "description": "Preview and publish pure-frontend HTML apps to Kiwoo drafts, with an explicit preview-then-confirm workflow.",
+  "author": {
+    "name": "Kiwoo Lab",
+    "email": "support@kiwoo.ai",
+    "url": "https://kiwoo.ai"
+  },
+  "homepage": "https://kiwoo.ai",
+  "repository": "https://github.com/metasomaAI/kiwoo-web-app-publisher",
+  "keywords": [
+    "kiwoo",
+    "web-app",
+    "publisher",
+    "deploy",
+    "html",
+    "static-site",
+    "draft",
+    "preview"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Kiwoo Web App Publisher",
+    "shortDescription": "Publish web apps to Kiwoo",
+    "longDescription": "Kiwoo Web App Publisher turns a pure-frontend project or a single static HTML page into a Kiwoo draft. It builds one self-contained HTML entry, runs a pre-publish quality gate, creates a 10-minute preview URL, and waits for the user's explicit confirmation before saving to Kiwoo Drafts. Publishing never makes the work publicly live; public release remains a separate user action in the Kiwoo workspace.",
+    "developerName": "Kiwoo Lab",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://kiwoo.ai",
+    "privacyPolicyURL": "https://kiwoo.ai/privacy",
+    "termsOfServiceURL": "https://kiwoo.ai/terms",
+    "defaultPrompt": [
+      "Preview this pure-frontend HTML app with Kiwoo.",
+      "Publish my static web app to Kiwoo Drafts after I confirm the preview."
+    ],
+    "brandColor": "#0F766E",
+    "composerIcon": "./icon-192.png",
+    "logo": "./icon-192.png",
+    "screenshots": []
+  }
+}
