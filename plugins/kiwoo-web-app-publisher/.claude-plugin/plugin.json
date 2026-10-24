@@ -18,5 +18,10 @@
     "static-site",
     "draft",
     "preview"
-  ]
+  ],
+  "icon": "./icon-1024.png",
+  "documentationUrl": "https://github.com/metasomaAI/kiwoo-web-app-publisher",
+  "supportUrl": "https://kiwoo.ai",
+  "privacyPolicyUrl": "https://kiwoo.ai/privacy",
+  "termsOfServiceUrl": "https://kiwoo.ai/terms"
 }

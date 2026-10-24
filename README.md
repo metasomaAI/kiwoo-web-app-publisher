@@ -9,6 +9,7 @@ for OpenAI Codex/ChatGPT, Claude Code/Claude Directory, and WorkBuddy.
 - Repository: https://github.com/metasomaAI/kiwoo-web-app-publisher
 - Website: https://kiwoo.ai
 - Support: support@kiwoo.ai
+- License: Proprietary (see `LICENSE`)
 
 ## What it does
 
@@ -36,8 +37,8 @@ install the plugin package directory directly. The manifest is
 
 Add this repository as a marketplace, then install
 `kiwoo-web-app-publisher@kiwoo`. The manifest is
-`.claude-plugin/plugin.json`, and the skill ships at
-`skills/kiwoo-web-app-publisher/SKILL.md`.
+`.claude-plugin/plugin.json`; the 1024x1024 directory icon is
+`icon-1024.png`, and the skill ships at `skills/kiwoo-web-app-publisher/SKILL.md`.
 
 ### WorkBuddy
 
@@ -95,3 +96,8 @@ Canonical links: [website](https://kiwoo.ai) |
 [token setup](https://kiwoo.ai/settings/tokens) |
 [privacy](https://kiwoo.ai/privacy) | [terms](https://kiwoo.ai/terms) |
 [support](mailto:support@kiwoo.ai)
+
+## License
+
+The Package is proprietary. Copyright (c) 2026 Kiwoo Lab. All rights reserved.
+See `LICENSE` for the full terms. No open-source license is granted.
